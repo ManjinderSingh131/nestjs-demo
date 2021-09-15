@@ -1,0 +1,22 @@
+.card-title {
+  font-family: 'IBM Plex Mono', monospace;
+}
+
+.prod-details {
+  font-size: 15px;
+  font-family: monospace;
+  font-weight: bold;
+}
+
+.available-prods {
+  max-height: 150px;
+  overflow-y: scroll;
+  background-color: #2196f3;
+  font-family: 'IBM Plex Mono', monospace;
+  font-weight: bold;
+  font-size: 16px;
+  color: white;
+  padding: 20px;
+  border-radius: 4px;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.35);
+}
